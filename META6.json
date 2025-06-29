@@ -1,0 +1,28 @@
+{
+  "auth": "zef:l10n",
+  "authors": [
+    "Liz"
+  ],
+  "build-depends": [
+  ],
+  "depends": [
+  ],
+  "description": "Slovak localization of Raku",
+  "license": "Artistic-2.0",
+  "name": "L10N::SK",
+  "perl": "6.d",
+  "provides": {
+    "L10N::SK": "lib/L10N/SK.rakumod",
+    "RakuAST::Deparse::L10N::SK": "lib/RakuAST/Deparse/L10N/SK.rakumod"
+  },
+  "resources": [
+  ],
+  "source-url": "",
+  "tags": [
+    "LOCALIZATION",
+    "Slovak"
+  ],
+  "test-depends": [
+  ],
+  "version": "0.0.1"
+}
